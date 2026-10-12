@@ -12,6 +12,7 @@ Sistema desenvolvido para auxiliar no gerenciamento e organização de procedime
 🔗 https://github.com/BonfimMarcos/InnovamedProcedimentos
 
 🛠️ Tecnologias e Conhecimentos
+C#
 Java
 SQL
 Banco de Dados Relacionais
