@@ -12,17 +12,17 @@ Sistema desenvolvido para auxiliar no gerenciamento e organização de procedime
 🔗 https://github.com/BonfimMarcos/InnovamedProcedimentos
 
 🛠️ Tecnologias e Conhecimentos
-C#
-Java
-SQL
-Banco de Dados Relacionais
-Git
-GitHub
-Help Desk
-Service Desk
-Suporte Técnico
-Windows
-Redes
+C#,
+Java,
+SQL,
+Banco de Dados Relacionais,
+Git,
+GitHub,
+Help Desk,
+Service Desk,
+Suporte Técnico,
+Windows,
+Redes,
 📚 Atualmente estudando
 Java
 Programação Orientada a Objetos
