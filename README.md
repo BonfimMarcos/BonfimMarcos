@@ -1,4 +1,5 @@
 Olá, eu sou Marcos Bonfim 👋 
+
 Técnico em Qualidade com Registro profissional: CRT-SP/CFT, e 🎓 Estudante de Análise e Desenvolvimento de Sistemas com foco em Java e SQL.
 
 💻 Possuo conhecimentos em Help Desk, suporte técnico e resolução de problemas em ambientes corporativos.
