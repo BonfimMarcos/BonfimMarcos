@@ -1,16 +1,37 @@
-## Hi there 👋
+Olá, eu sou Marcos Bonfim 👋
+🎓 Estudante de Análise e Desenvolvimento de Sistemas com foco em Java e SQL.
 
-<!--
-**BonfimMarcos/BonfimMarcos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Possuo conhecimentos em Help Desk, suporte técnico e resolução de problemas em ambientes corporativos.
 
-Here are some ideas to get you started:
+Atualmente busco desenvolver minhas habilidades em programação, banco de dados e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projeto em Destaque
+Innovamed Procedimentos
+Sistema desenvolvido para auxiliar no gerenciamento e organização de procedimentos, aplicando conceitos de programação, banco de dados e desenvolvimento de sistemas.
+
+🔗 https://github.com/BonfimMarcos/InnovamedProcedimentos
+
+🛠️ Tecnologias e Conhecimentos
+Java
+SQL
+Banco de Dados Relacionais
+Git
+GitHub
+Help Desk
+Service Desk
+Suporte Técnico
+Windows
+Redes
+📚 Atualmente estudando
+Java
+Programação Orientada a Objetos
+SQL
+Modelagem de Dados
+Boas Práticas de Desenvolvimento
+🎯 Objetivos
+Consolidar conhecimentos em Java
+Aprimorar habilidades em Banco de Dados
+Desenvolver projetos voltados ao mercado
+Evoluir profissionalmente em Tecnologia da Informação
+📫 Contato
+LinkedIn: https://www.linkedin.com/in/marcosbonfim
